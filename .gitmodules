@@ -1,0 +1,6 @@
+[submodule "join"]
+	path = join
+	url = git@github.com:Safa325/join.git
+[submodule "join_api"]
+	path = join_api
+	url = git@github.com:Safa325/join_api.git
